@@ -1,0 +1,15 @@
+{
+	"players": [
+		{
+			"model": "models/ebmage/adanza/cat.mdl",
+			"name": "Bot01",
+			"id": "90071996842377216"
+		},
+		{
+			"model": "models/player/dewobedil/maid_dragon/lucoa/default_p.mdl",
+			"name": "zeta",
+			"id": "76561198969555295"
+		}
+	],
+	"_help": "Список: id (SteamID, SteamID64 или [U:1:...]), name (любой ник для списка), model (путь вида models/.../файл.mdl, можно пустым, если нужны только спеллы), skin и bodygroups (необязательно), spells (список id спеллов, необязательно). Файл перечитывается сам при изменении."
+}
