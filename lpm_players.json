@@ -1,24 +1,29 @@
 {
-	"players": [
-		{
-			"model": "models/ebmage/adanza/cat.mdl",
-			"name": "Bot01",
-			"id": "90071996842377216"
-		},
-		{
-			"model": "models/ebmage/adanza/cat.mdl",
-			"name": "zeta",
-			"id": "76561198969555295"
-		},
-		{
-			"tagcolor2": "#FF6E02",
-			"tag": "1",
-			"tagcolor": "#FEFF04",
-			"model": "",
-			"spells": "corpse_gray",
-			"name": "a bull that dreams",
-			"id": "76561199083471122"
-		}
-	],
-	"_help": "Список: id (SteamID, SteamID64 или [U:1:...]), name (любой ник для списка), model (путь вида models/.../файл.mdl, можно пустым, если нужны только спеллы), skin и bodygroups (необязательно), spells (список id спеллов, необязательно). tag (имя неймтега) и tagcolor (цвет вида #RRGGBB) тоже необязательны. Файл перечитывается сам при изменении."
+  "players": [
+    {
+      "model": "models/ebmage/adanza/cat.mdl",
+      "name": "Bot01",
+      "id": "90071996842377216"
+    },
+    {
+      "model": "models/ebmage/adanza/cat.mdl",
+      "name": "zeta",
+      "id": "76561198969555295"
+    },
+    {
+      "tagcolor2": "#FF6E02",
+      "tag": "1",
+      "tagcolor": "#FEFF04",
+      "model": "",
+      "spells": "corpse_gray",
+      "name": "a bull that dreams",
+      "id": "76561199083471122"
+    },
+    {
+      "id": "76561197960290419",
+      "name": "",
+      "model": "models/eshkere/arsenmarkaryan.mdl"
+    }
+  ],
+  "_help": "Список: id (SteamID, SteamID64 или [U:1:...]), name (любой ник для списка), model (путь вида models/.../файл.mdl, можно пустым, если нужны только спеллы), skin и bodygroups (необязательно), spells (список id спеллов, необязательно). tag (имя неймтега) и tagcolor (цвет вида #RRGGBB) тоже необязательны. Файл перечитывается сам при изменении."
 }
