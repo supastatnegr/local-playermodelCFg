@@ -22,7 +22,7 @@
     {
       "id": "76561197960290419",
       "name": "",
-      "model": "models/eshkere/arsenmarkaryan.mdl"
+      "model": "models/asdasd/asodkaoskd.mdl"
     }
   ],
   "_help": "Список: id (SteamID, SteamID64 или [U:1:...]), name (любой ник для списка), model (путь вида models/.../файл.mdl, можно пустым, если нужны только спеллы), skin и bodygroups (необязательно), spells (список id спеллов, необязательно). tag (имя неймтега) и tagcolor (цвет вида #RRGGBB) тоже необязательны. Файл перечитывается сам при изменении."
